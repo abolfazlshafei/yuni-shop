@@ -1,0 +1,28 @@
+.buy {
+  width: 230px;
+  height: 200px;
+  padding: 5px;
+  background-color: #f43c3c;
+  margin-right: 30px;
+  border-radius: 4px;
+}
+
+.buy-title {
+  height: 190px;
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
+  align-items: center;
+  gap: 10px;
+}
+
+.slider-1 {
+  width: 154px;
+  padding: 3px;
+  border-radius: 5px;
+  height: 190px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+}

@@ -1,0 +1,55 @@
+.footer {
+  width: 290px;
+  height: 140px;
+  margin-top: 900px;
+  padding: 5px;
+  background-color: rgb(102, 100, 98);
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  justify-content: flex-start;
+  color: aliceblue;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 5px;
+  margin-top: 20px;
+
+  align-items: center;
+}
+
+.location {
+  font-size: 10px;
+}
+
+.footer-call {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  padding: 2px;
+}
+
+.call {
+  font-size: 10px;
+}
+
+.footer-email {
+  display: flex;
+  align-items: center;
+  margin-right: 23px;
+  gap: 10px;
+}
+
+.email {
+  font-size: 12px;
+}
+
+.power {
+  margin-top: 20px;
+  padding: 5px;
+ 
+}

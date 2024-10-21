@@ -1,0 +1,17 @@
+.last {
+  padding: 5px;
+  background-color: rgb(246, 246, 246);
+}
+
+.last-btn {
+  display: flex;
+ margin-top: 5px;
+  padding: 5px;
+  justify-content: space-evenly
+}
+
+.last-title {
+  font-weight: 500;
+  font-size: 13px;
+  padding-bottom: 10px;
+}

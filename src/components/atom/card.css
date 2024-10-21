@@ -1,0 +1,56 @@
+.section-top {
+  height: 268px;
+  border-radius: 5px;
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  padding: 2px;
+}
+.ROW {
+  background-color: rgb(222, 229, 229);
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1px 1px rgb(149, 146, 146);
+  align-items: center;
+  border-radius: 5px;
+  width: 130px;
+}
+
+.section-pic {
+  display: flex;
+  background-color: rgb(235, 238, 238);
+  justify-content: space-between;
+  padding: 5px;
+  justify-content: space-between;
+  width: 131px;
+  border-radius: 5px 5px 0 0px;
+  align-items: center;
+}
+
+.section-line {
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.section-name {
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  gap: 3px;
+}
+
+.key {
+  font-size: 11px;
+  color: cadetblue;
+  font-weight: 400;
+  width: 100px;
+  text-align: center;
+  padding: 5px;
+}
+
+.name {
+  font-size: 12px;
+  font-weight: 500;
+}

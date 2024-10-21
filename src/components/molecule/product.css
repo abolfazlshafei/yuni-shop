@@ -1,0 +1,10 @@
+.detail {
+  height: 290px;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: rgb(216, 218, 220);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 5px;
+}
